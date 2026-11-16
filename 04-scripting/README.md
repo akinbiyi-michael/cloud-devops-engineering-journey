@@ -1,4 +1,4 @@
-﻿# Phase 4 - Scripting & Automation
+# Phase 4 - Scripting & Automation
 
 **Status:** not started
 

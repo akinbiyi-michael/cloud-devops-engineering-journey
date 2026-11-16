@@ -1,4 +1,4 @@
-﻿# Phase 11 - Platform Engineering
+# Phase 11 - Platform Engineering
 
 **Status:** not started
 

@@ -1,4 +1,4 @@
-﻿# Phase 5 - Cloud Computing & AWS
+# Phase 5 - Cloud Computing & AWS
 
 **Status:** not started
 

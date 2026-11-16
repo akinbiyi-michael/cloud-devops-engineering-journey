@@ -1,4 +1,4 @@
-﻿# ---- secrets and keys: never commit these ----
+# ---- secrets and keys: never commit these ----
 *.pem
 *.key
 *.ppk

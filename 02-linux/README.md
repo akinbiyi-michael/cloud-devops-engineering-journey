@@ -1,4 +1,4 @@
-﻿# Phase 2 - Linux System Administration
+# Phase 2 - Linux System Administration
 
 **Status:** not started
 

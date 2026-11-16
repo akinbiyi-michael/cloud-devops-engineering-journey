@@ -1,4 +1,4 @@
-﻿# Phase 10 - Monitoring & Observability
+# Phase 10 - Monitoring & Observability
 
 **Status:** not started
 

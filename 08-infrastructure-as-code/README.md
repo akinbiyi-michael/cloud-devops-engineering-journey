@@ -1,4 +1,4 @@
-﻿# Phase 8 - Infrastructure as Code
+# Phase 8 - Infrastructure as Code
 
 **Status:** not started
 

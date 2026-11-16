@@ -1,4 +1,4 @@
-﻿# Phase 9 - Kubernetes
+# Phase 9 - Kubernetes
 
 **Status:** not started
 

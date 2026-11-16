@@ -1,4 +1,4 @@
-﻿# Phase 3 - Git & Version Control
+# Phase 3 - Git & Version Control
 
 **Status:** not started
 

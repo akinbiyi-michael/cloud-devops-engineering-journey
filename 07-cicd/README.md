@@ -1,4 +1,4 @@
-﻿# Phase 7 - CI/CD & Software Delivery
+# Phase 7 - CI/CD & Software Delivery
 
 **Status:** not started
 

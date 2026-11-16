@@ -1,4 +1,4 @@
-﻿# Phase 1 - Computer & IT Fundamentals
+# Phase 1 - Computer & IT Fundamentals
 
 **Status:** not started
 

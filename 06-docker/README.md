@@ -1,4 +1,4 @@
-﻿# Phase 6 - Docker & Containerisation
+# Phase 6 - Docker & Containerisation
 
 **Status:** not started
 

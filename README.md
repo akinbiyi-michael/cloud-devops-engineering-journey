@@ -1,11 +1,11 @@
-﻿# Cloud Infrastructure & DevOps Engineering Journey
+# Cloud Infrastructure & DevOps Engineering Journey
 
-**Michael Moyosore Akinbiyi** â€” Lagos, Nigeria
+**Michael Moyosore Akinbiyi** — Lagos, Nigeria
 BEng Agricultural & Bio-resources Engineering, Federal University of Technology Minna
 Graduate Member, Nigerian Society of Engineers
 
 Working through a structured cloud infrastructure and DevOps programme and documenting every phase
-as I go â€” notes, labs, evidence, and the things that broke along the way.
+as I go — notes, labs, evidence, and the things that broke along the way.
 
 This repository is the record of the learning. The projects below are the work.
 
@@ -49,16 +49,16 @@ screenshots live in each phase's `evidence/` folder.
 
 ## Environment
 
-Work is done on an Intel Core i7-4600U laptop â€” 2 physical cores, 4 threads, 12 GB RAM â€” running
+Work is done on an Intel Core i7-4600U laptop — 2 physical cores, 4 threads, 12 GB RAM — running
 Windows 11 Pro with Ubuntu under WSL2.
 
 That hardware is a real constraint and it shaped the approach: multi-VM labs are not viable on two
 cores, so Linux work runs under WSL2, and Kubernetes work targets a managed cloud cluster rather
 than a local multi-node one. The reasoning is written up in
-[01-it-fundamentals/workstation-inventory.md](01-it-fundamentals/workstation-inventory.md) â€”
+[01-it-fundamentals/workstation-inventory.md](01-it-fundamentals/workstation-inventory.md) —
 measuring the machine first, then deciding what it could support.
 
 ## Contact
 
 - **Email:** akinbiyimichael007@gmail.com
-- **LinkedIn:** _add your profile URL_
+- **LinkedIn:** [linkedin.com/in/akinbiyi-michael-4526bb215](https://www.linkedin.com/in/akinbiyi-michael-4526bb215)
