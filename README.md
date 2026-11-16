@@ -61,4 +61,4 @@ measuring the machine first, then deciding what it could support.
 ## Contact
 
 - **Email:** akinbiyimichael007@gmail.com
-- **LinkedIn:** [linkedin.com/in/akinbiyi-michael-4526bb215](https://www.linkedin.com/in/akinbiyi-michael-4526bb215)
+- **LinkedIn:** [linkedin.com/in/akinbiyi-michael](https://www.linkedin.com/in/akinbiyi-michael)
