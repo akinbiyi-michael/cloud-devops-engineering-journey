@@ -1,0 +1,56 @@
+﻿# ---- secrets and keys: never commit these ----
+*.pem
+*.key
+*.ppk
+*.p12
+*.pfx
+id_rsa*
+id_ed25519*
+*.kubeconfig
+kubeconfig
+.aws/
+credentials
+*-recovery-codes.txt
+*recovery-codes*
+
+# ---- environment and variable files ----
+.env
+.env.*
+*.tfvars
+!example.tfvars
+secrets.yml
+secrets.yaml
+vault-password*
+
+# ---- terraform state: contains every value in plain text ----
+*.tfstate
+*.tfstate.*
+.terraform/
+.terraform.lock.hcl
+crash.log
+
+# ---- ansible ----
+*.retry
+
+# ---- language and tooling ----
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+node_modules/
+*.log
+
+# ---- editors and OS ----
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ---- archives and large binaries ----
+*.zip
+*.tar
+*.tar.gz
+*.iso
+*.vmdk
+*.vdi
